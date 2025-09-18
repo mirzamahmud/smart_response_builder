@@ -244,7 +244,7 @@ ResponseBuilder<List<String>>(
 
 ---
 
-##
+## 🧩 Properties
 
 | Property | Type | Description |
 |----------------|-----------------|----------------|

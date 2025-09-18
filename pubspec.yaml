@@ -1,6 +1,6 @@
 name: smart_response_builder
 description: "A smart widget for handling API responses, offline states, and pagination in Flutter."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/mirzamahmud/smart_response_builder
 repository: https://github.com/mirzamahmud/smart_response_builder
 issue_tracker: https://github.com/mirzamahmud/smart_response_builder/issues

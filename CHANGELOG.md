@@ -6,6 +6,12 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.0.1] - 2025-09-18
+
+- Update Document
+
+---
+
 ## [1.0.0] - 2025-09-18
 
 ### Added
@@ -20,6 +26,8 @@ This project follows [Semantic Versioning](https://semver.org/).
   - Simple usage with static data
   - Advanced usage with infinite scroll + offline detection
 - Comprehensive documentation and README
+
+---
 
 ### Notes
 
