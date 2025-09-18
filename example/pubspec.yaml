@@ -18,6 +18,7 @@ dependencies:
 
   smart_response_builder:
     path: ../
+  connectivity_plus: ^7.0.0
 
 dev_dependencies:
   flutter_test:
