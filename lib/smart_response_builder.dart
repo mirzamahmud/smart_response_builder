@@ -1,5 +1,5 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+// ignore_for_file: unnecessary_library_name
+
+library smart_response_builder;
+
+export 'src/response_builder.dart';
